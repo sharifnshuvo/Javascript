@@ -1,2 +1,0 @@
-# Javascript
-code for JS
